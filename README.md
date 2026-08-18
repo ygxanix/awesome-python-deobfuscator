@@ -28,8 +28,8 @@
   </p>
   <!-- Row 2: 2 Badges (GitHub Stars, GitHub Forks) -->
   <p align="center">
-    <a href="https://github.com/"><img src="https://img.shields.io/badge/Stars-★%20Dynamic-yellow?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars" /></a>
-    <a href="https://github.com/"><img src="https://img.shields.io/badge/Forks-🔀%20Dynamic-blue?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Forks" /></a>
+    <a href="https://github.com/ygxanix/awesome-python-deobfuscator/stargazers"><img src="https://img.shields.io/github/stars/ygxanix/awesome-python-deobfuscator?style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars" /></a>
+    <a href="https://github.com/ygxanix/awesome-python-deobfuscator/network/members"><img src="https://img.shields.io/github/forks/ygxanix/awesome-python-deobfuscator?style=for-the-badge&logo=github&color=blue" alt="GitHub Forks" /></a>
   </p>
 
   ---
@@ -113,24 +113,14 @@ This repository curates open-source reverse-engineering scripts created by secur
 
 ## ⚖️ Disclaimer
 
-<details>
-<summary><b>Click to expand legal disclaimer</b></summary>
+This repository and its tools are provided strictly for educational purposes, security analysis, malware research, and authorized software reverse-engineering.
 
-```text
-This repository and its tools are provided strictly for educational purposes, security analysis,
-malware research, and authorized software reverse-engineering.
-
-The maintainers do not condone or support any illegal activities, intellectual property theft,
-or unauthorized reverse-engineering of proprietary software. Use responsibly.
-```
-</details>
+The maintainers do not condone or support any illegal activities, intellectual property theft, or unauthorized reverse-engineering of proprietary software. Use responsibly.
 
 ---
 
 <div align="center">
 
   Made with ❤️ by **ygxanix**
-
-  <a href="#top"><b>⬆ Back to Top</b></a>
 
 </div>
