@@ -28,8 +28,8 @@
   </p>
   <!-- Row 2: 2 Badges (GitHub Stars, GitHub Forks) -->
   <p align="center">
-    <a href="https://github.com/ygxanix/awesome-python-deobfuscator/stargazers"><img src="https://img.shields.io/github/stars/ygxanix/awesome-python-deobfuscator?style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars" /></a>
-    <a href="https://github.com/ygxanix/awesome-python-deobfuscator/network/members"><img src="https://img.shields.io/github/forks/ygxanix/awesome-python-deobfuscator?style=for-the-badge&logo=github&color=blue" alt="GitHub Forks" /></a>
+    <a href="https://github.com/ygxanix/awesome-python-deobfuscator/stargazers"><img src="https://img.shields.io/github/stars/ygxanix/awesome-python-deobfuscator?style=for-the-badge&logo=github" alt="GitHub Stars" /></a>
+    <a href="https://github.com/ygxanix/awesome-python-deobfuscator/network/members"><img src="https://img.shields.io/github/forks/ygxanix/awesome-python-deobfuscator?style=for-the-badge&logo=github" alt="GitHub Forks" /></a>
   </p>
 
   ---
