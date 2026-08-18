@@ -1,0 +1,1 @@
+/data/data/com.termux/files/usr/bin/c++ -Wall -Wextra -Wshadow -Werror  -O2 -g -DNDEBUG CMakeFiles/pycdas.dir/pycdas.cpp.o -o pycdas  libpycxx.a 

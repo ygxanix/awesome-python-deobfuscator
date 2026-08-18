@@ -1,0 +1,1 @@
+/data/data/com.termux/files/usr/bin/c++ -Wall -Wextra -Wshadow -Werror  -O2 -g -DNDEBUG CMakeFiles/pycdc.dir/pycdc.cpp.o CMakeFiles/pycdc.dir/ASTree.cpp.o CMakeFiles/pycdc.dir/ASTNode.cpp.o -o pycdc  libpycxx.a 

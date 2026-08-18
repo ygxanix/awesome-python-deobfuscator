@@ -1,0 +1,8 @@
+uncompyle6>=3.9.0
+decompyle++
+astor>=0.8.1
+py-compile
+zstandard
+lz4
+pycryptodome
+requests

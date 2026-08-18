@@ -1,0 +1,10 @@
+/storage/emulated/0/downloads/sefo/pycdc/CMakeFiles/pycxx.dir
+/storage/emulated/0/downloads/sefo/pycdc/CMakeFiles/pycdas.dir
+/storage/emulated/0/downloads/sefo/pycdc/CMakeFiles/pycdc.dir
+/storage/emulated/0/downloads/sefo/pycdc/CMakeFiles/check.dir
+/storage/emulated/0/downloads/sefo/pycdc/CMakeFiles/edit_cache.dir
+/storage/emulated/0/downloads/sefo/pycdc/CMakeFiles/rebuild_cache.dir
+/storage/emulated/0/downloads/sefo/pycdc/CMakeFiles/list_install_components.dir
+/storage/emulated/0/downloads/sefo/pycdc/CMakeFiles/install.dir
+/storage/emulated/0/downloads/sefo/pycdc/CMakeFiles/install/local.dir
+/storage/emulated/0/downloads/sefo/pycdc/CMakeFiles/install/strip.dir
